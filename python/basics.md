@@ -18,8 +18,8 @@ Personal reference sheet of core Python concepts for cybersecurity scripting.
 
 ```python
 name = "Peter"          # String (text)
-age = 25                # Integer (whole number)
-height = 5.9            # Float (decimal number)
+age = 19                # Integer (whole number)
+height = 5.11            # Float (decimal number)
 is_hacker = True        # Boolean (True or False)
 ```
 
