@@ -10,6 +10,7 @@ Covers Linux, Python, tools, and CTF writeups.
 - [Linux](./linux/) — Commands, file permissions, networking
 - [Python](./python/) — Basics and security scripts
 - [Tools](./tools/) — Nmap, Wireshark, and others
+- [Security Concepts](./security-concepts/) — Core terminology, risk, threats, and vulnerabilities
 - [CTF Writeups](./ctf-writeups/) — TryHackMe and PicoCTF solutions
 
 ---
