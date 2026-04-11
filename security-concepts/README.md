@@ -17,9 +17,3 @@ Personal study notes from CompTIA Security+ (SY0-701) and ongoing cybersecurity 
 | [data-protection.md](./data-protection.md) | Data classifications, data states, DLP, RAID, backups, business continuity, disaster recovery |
 | [incident-response.md](./incident-response.md) | IR phases, threat hunting, digital forensics, SIEM, alerting and monitoring, automation |
 | [hardening-and-physical-security.md](./hardening-and-physical-security.md) | Hardening, patch management, asset management, physical security, audits, vulnerability management |
-
----
-
-## About
-
-These notes are written as I study and learn. They are not perfect — they are an honest record of my progress and growth.
